@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522417256 source:c:\users\dell\desktop\数据结构\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
